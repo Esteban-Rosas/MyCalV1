@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Sum">
+        <item>
+            sum
+        </item>
+        <item>
+            res
+        </item>
+        <item>
+            mul
+        </item>
+        <item>
+            div
+        </item>
+    </string-array>
+
+</resources>
